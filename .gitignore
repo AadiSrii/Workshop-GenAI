@@ -2,4 +2,6 @@ venv/
 .env/
 __pycache__/
 .vscode/
-.venv/q
+.venv/q.venv/
+.agents/
+__pycache__/
